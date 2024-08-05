@@ -7,5 +7,5 @@ Regarding real life projects, I am working in an important data analysis that ha
 (my knowledge in this area is very limited). 
 
 You can reach me through my email: martinmolinapolo@hotmail.com
-Fun fact: I cannot do chemistry.
+
 
