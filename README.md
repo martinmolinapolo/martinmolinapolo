@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @martinmolinapolo
-I'm about to enter my second year of university and I am majoring in Data Science. My main interests revolve around mathematics, statistics and physics but I spend a lot of
-time learning new technologies. Right now I am learning web development and opened this github account to host my webpage. I also enjoy competitive programming, being Codeforces my main website to practice.
-Regarding real life projects, I am working in an important data analysis that has to do with the Galapos Islands's ecosystem.
-- If my skills improve quickly, I would love to collaborate in a machine learning/artificial intelligence project.
-- In the future I want to expand my knowledge in robotics/mechanical engineering so I can build things
-(my knowledge in this area is very limited). 
+I'm  a Computer Science major in Ecuador, with a background in Data Science. Before my career change, I learned a little about machine learning models, natural language processing, the R language and a lot about statistics and math. I also collaborated in two major projects: the first one is a project started by Fundación Charles Darwin, who wanted to know what is the current state of the Galapagos Islands' ecosystem; the other one was a sociological research project that analyzed what ecuadorian people thought about people from different ecuadorian regions. However, right now I'm focused on more technical areas like compilers, operating systems and computer networks. The project I'm working on currently is a simple shell emulation, but I've done a memory allocator and simple command-line tools for Linux.
 
-You can reach me through my email: martinmolinapolo@hotmail.com
+Finally, my passions lie in between art and computer science, and I would love to mix these two areas someday. Also, I really like Linux and my daily driver is Arch.
 
 
